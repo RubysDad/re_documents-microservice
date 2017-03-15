@@ -3,7 +3,7 @@ class ReDocumentsController < ApplicationController
 
   # GET /re_documents
   def index
-    @re_documents = ReDocument.order('created_at DESC')
+    @re_documents = ReDocument.all
 
     render json: @re_documents
   end
