@@ -1,0 +1,2 @@
+class ReDocument < ApplicationRecord
+end
