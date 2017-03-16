@@ -3,6 +3,6 @@
         title: "Document #{d}", 
         description: "Listings",
         file_url: "",
-        image_url: "http://www.publicdomainpictures.net/pictures/150000/velka/luxurious-residence.jpg",
+        image_url: "http://maxpixel.freegreatpicture.com/static/photo/1x/Documents-Paper-Document-Sign-Business-Agreement-428333.jpg",
     )
 end
